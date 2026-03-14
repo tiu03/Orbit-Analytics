@@ -1,5 +1,6 @@
 # Orbit-Analytics
-Orbit Analytics: A Containerized Medallion Pipeline using PySpark, dbt, and BigQuery.
+
+## Orbit Analytics: A Containerized Medallion Pipeline using PySpark, dbt, and BigQuery
 
 ---
 
@@ -9,11 +10,12 @@ This project simulates a high-frequency data environment (like e-commerce transa
 ## 1. The Tech Stack Breakdown
 
 - **Infrastructure:** **Docker** (to containerize your local Spark environment and Airflow).
-    
-- **Ingestion & Processing:** **PySpark** on **Databricks** (Community Edition is fine) for heavy lifting and data cleaning.
-    
-- **Transformation:** **dbt (data build tool)** to manage SQL transformations in your warehouse.
-    
-- **Storage/Warehouse:** **Google BigQuery** (as your cloud data warehouse) or **Delta Lake**.
-    
+
+- **Ingestion & Processing:** **PySpark** on **Databricks** for heavy lifting and data cleaning.
+
+- **Transformation:** **dbt (data build tool)** to manage SQL transformations in warehouse.
+
+- **Storage/Warehouse:** **Google BigQuery** (cloud data warehouse)
+
 - **Visualization:** **Tableau** (to showcase the final "Gold" layer insights).
+
