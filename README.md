@@ -1,11 +1,11 @@
 # Orbit-Analytics
 
 ## Orbit Analytics: A Containerized Medallion Pipeline using PySpark, dbt, and BigQuery
-
+for personal learning 
 ---
 
 Project Architecture: "The Real-Time Medallion Pipeline"
-This project simulates a high-frequency data environment (like e-commerce transactions or ride-sharing events) using a Medallion Architecture (Bronze → Silver → Gold).
+This project simulates a high-frequency data environment using a Medallion Architecture (Bronze → Silver → Gold).
 
 ## 1. The Tech Stack Breakdown
 
