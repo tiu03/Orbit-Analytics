@@ -1,7 +1,6 @@
 # Orbit-Analytics
 
 ## Orbit Analytics: A Containerized Medallion Pipeline using PySpark, dbt, and BigQuery
-for personal learning 
 ---
 
 Project Architecture: "The Real-Time Medallion Pipeline"
