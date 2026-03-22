@@ -17,4 +17,3 @@ This project simulates a high-frequency data environment using a Medallion Archi
 - **Storage/Warehouse:** **Google BigQuery** (cloud data warehouse)
 
 - **Visualization:** **Tableau** (to showcase the final "Gold" layer insights).
-
