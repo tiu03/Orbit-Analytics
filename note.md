@@ -4,7 +4,8 @@ title: Note
 
 # A note for recap and learning about data enginering after that will be some data science and analytic stuff come in
 
-just keep learning might have something wrong but try first ~_~ for my self hahha  maybe will hide this note someday who know 🦉 i shy
+just keep learning might have something wrong but try first ~_~ for my self   
+maybe will hide this note someday who know 🦉 i shy
 
 ### **Progress**:
 #### Design Data Architecture & Project initialization:
@@ -61,7 +62,7 @@ Raw data -> Bronze(Raw data ) data untranform data -> Silver (dbt) -> Gold  %%
 
 
 
-`tips: Ctrl+K then V = markdown preview for vscode` 
+`IDE vscode tips: Ctrl+K then V = markdown preview ` 
 
 #### Plan using a Hybrid Approach
 	- (Development): using Local PySpark inside Docker containers. Write and test your code for free without burning Databricks credits or waiting for a cloud cluster to start up.
